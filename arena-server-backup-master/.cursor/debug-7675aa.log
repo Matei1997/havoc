@@ -1,0 +1,222 @@
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773436367733,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setCommands","args":[["/goto","/gethere","/giveclothes","/giveitem","/spawnitem","/listplayers","/setadmin","/esp","/gm","/inv","/aspec","/aspecoff","/admglog","/akilllog","/report","/reports","/gotopos","/savepos","/settime","/sethealth","/clearinventory","/setpage","/reloadclientside","/testbbb","/testnativemenu","/testitem","/testattach","/bot","/me","/w","/do","/b","/setradio","/shout","/pos","/tp","/anim","/anims","/giveweapon","/d","/mydim","/arena_mark","/arena_export","/arena_save","/hopouts_locations","/hopouts_solo","/attach","/generateseasonrewards","/freeroam","/poligon","/fdim","/fveh","/fgun","/tune","/tunemod","/clothing"]]},"timestamp":1773436376374,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773436382369,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773436382370,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773436384451,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773436384452,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773436698546,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":false},"timestamp":1773436698547,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436706846,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setCommands","args":[["/goto","/gethere","/giveclothes","/giveitem","/spawnitem","/listplayers","/setadmin","/esp","/gm","/inv","/aspec","/aspecoff","/admglog","/akilllog","/report","/reports","/gotopos","/savepos","/settime","/sethealth","/clearinventory","/setpage","/reloadclientside","/testbbb","/testnativemenu","/testitem","/testattach","/bot","/me","/w","/do","/b","/setradio","/shout","/pos","/tp","/anim","/anims","/giveweapon","/d","/mydim","/arena_mark","/arena_export","/arena_save","/hopouts_locations","/hopouts_solo","/attach","/generateseasonrewards","/freeroam","/poligon","/fdim","/fveh","/fgun","/tune","/tunemod","/clothing"]]},"timestamp":1773436706867,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436710055,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:newMessage","args":["<span class=\"chat-scope\">[LOCAL]</span> Asdasd Sasdfasdf: asdfasdf"]},"timestamp":1773436713534,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436713535,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436713535,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436715363,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773436718540,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":true,"hasInput":false},"timestamp":1773436718542,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773436718542,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436718543,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436718543,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773436718545,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773436718546,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":true},"timestamp":1773436718546,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436718546,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436718546,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773436719101,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":false,"hasInput":false},"timestamp":1773436719101,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436719101,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773436719102,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":false},"timestamp":1773436719102,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773436722525,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":true,"hasInput":false},"timestamp":1773436722525,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":false},"timestamp":1773436722526,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436722526,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436722528,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773436722530,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773436722530,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":true},"timestamp":1773436722530,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436722531,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773436728314,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436728315,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773436728316,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":false,"hasInput":false},"timestamp":1773436728314,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":false},"timestamp":1773436728316,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773436728823,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":false},"timestamp":1773436728824,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":true,"hasInput":false},"timestamp":1773436728823,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436728824,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436728826,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773436728826,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773436728826,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":true},"timestamp":1773436728826,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436728827,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773436730929,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":false,"hasInput":false},"timestamp":1773436730929,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436730930,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773436730930,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":false},"timestamp":1773436730930,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436740953,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436740974,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436740994,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436741014,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436741034,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773436807540,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":true,"hasInput":false},"timestamp":1773436807541,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436807544,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":false},"timestamp":1773436807541,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773436807541,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773436807546,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":true},"timestamp":1773436807547,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773436807546,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436807547,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773436807918,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":false,"hasInput":false},"timestamp":1773436807918,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436807918,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773436807919,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":false},"timestamp":1773436807919,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436817947,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436817966,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436817986,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436818007,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773436818027,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437021672,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773437084056,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":false},"timestamp":1773437084057,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437087790,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setCommands","args":[["/goto","/gethere","/giveclothes","/giveitem","/spawnitem","/listplayers","/setadmin","/esp","/gm","/inv","/aspec","/aspecoff","/admglog","/akilllog","/report","/reports","/gotopos","/savepos","/settime","/sethealth","/clearinventory","/setpage","/reloadclientside","/testbbb","/testnativemenu","/testitem","/testattach","/bot","/me","/w","/do","/b","/setradio","/shout","/pos","/tp","/anim","/anims","/giveweapon","/d","/mydim","/arena_mark","/arena_export","/arena_save","/hopouts_locations","/hopouts_solo","/attach","/generateseasonrewards","/freeroam","/poligon","/fdim","/fveh","/fgun","/tune","/tunemod","/clothing"]]},"timestamp":1773437087816,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437090186,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437093997,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773437101315,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":true,"hasInput":false},"timestamp":1773437101317,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773437101317,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437101317,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437101318,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773437101320,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773437101320,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":true},"timestamp":1773437101320,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437101321,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437101321,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773437101805,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":false,"hasInput":false},"timestamp":1773437101805,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437101806,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773437101806,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":false},"timestamp":1773437101806,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773437103721,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":true,"hasInput":false},"timestamp":1773437103722,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":false},"timestamp":1773437103722,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437103723,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437103725,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773437103727,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773437103727,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":true},"timestamp":1773437103727,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437103728,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":false},"timestamp":1773437108391,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773437108390,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:newMessage","args":["<span class=\"chat-scope\">[LOCAL]</span> Asdasd Sasdfasdf: Hello"]},"timestamp":1773437108392,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":false,"hasInput":false},"timestamp":1773437108390,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437108391,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773437108391,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437118400,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437118421,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437118441,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437118461,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437118481,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773437125573,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437125574,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":true,"hasInput":false},"timestamp":1773437125573,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":false},"timestamp":1773437125573,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437125576,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773437125578,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":true},"timestamp":1773437125578,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773437125578,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437125579,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773437129901,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":false,"hasInput":false},"timestamp":1773437129902,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437129902,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773437129903,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":false},"timestamp":1773437129903,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437139885,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437139904,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437139925,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437139945,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437139964,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[true]},"timestamp":1773437288056,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":true,"hasInput":false},"timestamp":1773437288057,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437288059,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":false},"timestamp":1773437288057,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":true,"isVisible":true},"timestamp":1773437288057,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[true]},"timestamp":1773437288061,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":true,"prevIsActive":true},"timestamp":1773437288061,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":true},"timestamp":1773437288062,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437288062,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:toggle","args":[false]},"timestamp":1773437289351,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"ChatInput.tsx:toggle","message":"chat:toggle handler called","data":{"bool":false,"hasInput":false},"timestamp":1773437289351,"hypothesisId":"H-B"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437289352,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"index.tsx:processHandlerCall","message":"callHandler with chat event","data":{"event":"chat:setActive","args":[false]},"timestamp":1773437289352,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.store.ts:setActive","message":"setActive called","data":{"data":false,"prevIsActive":false},"timestamp":1773437289352,"hypothesisId":"H-A"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437299381,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437299401,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437299420,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437299442,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773437299460,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:render","message":"Chat component rendering","data":{"isActive":false,"isVisible":true},"timestamp":1773438772631,"hypothesisId":"H-C"}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439615014}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439617766}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439617767}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439617767}
+{"sessionId":"7675aa","location":"Chat.tsx:peekTimeout","message":"peek timer expired, hiding","data":{},"timestamp":1773439627768}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439628071}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439628407}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439628407}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439628408}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439629149}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439630001}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439630001}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439630001}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439630011}
+{"sessionId":"7675aa","location":"Chat.tsx:peekTimeout","message":"peek timer expired, hiding","data":{},"timestamp":1773439640012}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439673629}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439674104}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439674105}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439674105}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439676072}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439676876}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439676877}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439676877}
+{"sessionId":"7675aa","location":"Chat.tsx:peekTimeout","message":"peek timer expired, hiding","data":{},"timestamp":1773439686877}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439777877}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439778370}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439778370}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439778370}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439779217}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439780959}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439780960}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439780960}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439789964}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439790453}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439790453}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439790453}
+{"sessionId":"7675aa","location":"Chat.tsx:peekTimeout","message":"peek timer expired, hiding","data":{},"timestamp":1773439800454}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773439834584}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773439837399}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773439837400}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773439837400}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773440122160}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773440122939}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773440122940}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773440122940}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773440122952}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773440125799}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773440128584}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773440128584}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773440128585}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773440158239}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773440159342}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773440159342}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773440159343}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":true,"currentVisible":false,"currentPeeking":false},"timestamp":1773440194161}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle","message":"chat toggle event","data":{"show":false,"currentVisible":false,"currentPeeking":false},"timestamp":1773440198576}
+{"sessionId":"7675aa","location":"Chat.tsx:startPeek","message":"startPeek called","data":{},"timestamp":1773440198577}
+{"sessionId":"7675aa","location":"Chat.tsx:onToggle:close","message":"starting peek on close","data":{},"timestamp":1773440198576}
+{"sessionId":"7675aa","location":"Chat.tsx:peekTimeout","message":"peek timer expired, hiding","data":{},"timestamp":1773440208576}

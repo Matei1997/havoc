@@ -1,0 +1,20 @@
+{
+  "batchId": "01_clothes_core",
+  "createdAt": "2026-04-17",
+  "status": "staging",
+  "notes": "First safe batch for clothes + interiors import. Keep small and validate before install.",
+  "packs": [
+    {
+      "name": "clothes_core_a",
+      "type": "clothes",
+      "source": "staged/clothes",
+      "status": "pending_files"
+    },
+    {
+      "name": "interior_core_a",
+      "type": "interior",
+      "source": "staged/interiors",
+      "status": "pending_files"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "megamall_circle_zone_moahg2sn",
+    "name": "circle_zone",
+    "mapId": "megamall",
+    "type": "circle",
+    "points": [
+      {
+        "x": 96.80522918701172,
+        "y": -1783.73388671875,
+        "z": 28.245
+      }
+    ],
+    "radius": 250,
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 200,
+      "a": 90
+    },
+    "createdAt": 1776888072102,
+    "updatedAt": 1776888351527
+  },
+  {
+    "id": "sandy_motel_circle_zone_moauqjk8",
+    "name": "circle_zone",
+    "mapId": "sandy_motel",
+    "type": "circle",
+    "points": [
+      {
+        "x": 1578.2813720703125,
+        "y": 3708.58349609375,
+        "z": 27.468
+      }
+    ],
+    "radius": 250,
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 200,
+      "a": 90
+    },
+    "createdAt": 1776910581699,
+    "updatedAt": 1776911486902
+  },
+  {
+    "id": "chilliad_circle_zone_moavcukk",
+    "name": "circle_zone",
+    "mapId": "chilliad",
+    "type": "circle",
+    "points": [
+      {
+        "x": -1104.1553955078125,
+        "y": 4919.55078125,
+        "z": 216.52980041503906
+      }
+    ],
+    "radius": 109,
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 200,
+      "a": 90
+    },
+    "createdAt": 1776911676958,
+    "updatedAt": 1776911715524
+  }
+]

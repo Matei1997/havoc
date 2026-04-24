@@ -1,0 +1,20 @@
+# Large files — keep out of repo (use LFS or host elsewhere if needed)
+gamemode-2/gamemode/frontend/src/assets/video/login-bg.mp4
+gamemode-2/ragemp-server/linux_x64.tar.gz
+*.tar.gz
+
+# gamemode-2 — build artifacts and deps (reinstall on clone)
+gamemode-2/**/node_modules/
+# RAGE Editor ships vendor deps under this path — must be present at runtime (no npm package.json).
+!gamemode-2/ragemp-server/packages/rage-editor/node_modules/
+!gamemode-2/ragemp-server/packages/rage-editor/node_modules/**
+gamemode-2/ragemp-server/client_packages/
+gamemode-2/ragemp-server/dblogs/
+gamemode-2/**/.listcache
+gamemode-2/**/dist/
+
+# Main tree (not gamemode-2) — node deps and logs; do not commit (reinstall on clone; avoids long-path errors on Windows)
+ragemp-server/**/node_modules/
+ragemp-server/dblogs/
+gamemode/**/node_modules/
+gamemode/**/dist/

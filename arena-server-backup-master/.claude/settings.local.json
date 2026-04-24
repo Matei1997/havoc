@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -ri hopouts /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2 --include=*.ts --include=*.tsx)",
+      "Bash(xargs grep:*)",
+      "Bash(grep -r \"Hopouts\\\\|hopouts\" /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/source/server --include=*.ts)",
+      "Bash(grep -r \"arenaStore\\\\|arena.*store\\\\|roundState\\\\|matchState\" /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/frontend/src --include=*.ts --include=*.tsx)",
+      "Bash(find /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/frontend/src -type f \\\\\\(-name *.tsx -o -name *.ts \\\\\\))",
+      "Bash(grep -r openSettings /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/source --include=*.ts)",
+      "Bash(grep -r \"settings.*page\\\\|setPage.*settings\" /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/source --include=*.ts)",
+      "Bash(find /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode -type f \\\\\\(-name *.ts -o -name *.js \\\\\\) ! -path */node_modules/* ! -path */frontend/*)",
+      "Bash(find /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/source -type f \\\\\\(-name EventManager* -o -name *EventManager* \\\\\\))",
+      "Bash(find \"C:\\\\Users\\\\matei\\\\Downloads\\\\Deadlock\\\\Deadlock\\\\gamemode-2\\\\gamemode\\\\source\\\\client\" -name \"*.ts\" -type f -exec grep -l \"showNotify\\\\|Notify\" {})",
+      "Bash(grep -r \"startPage.*settings\\\\|setPage.*settings\" /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/source/server --include=*.ts)",
+      "Bash(find /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/source -type f \\\\\\(-name *.ts -o -name *.js \\\\\\) ! -path */node_modules/*)",
+      "Bash(grep -r import.*Settings /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/source/client --include=*.ts)",
+      "Bash(find /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode -type f -name *.ts ! -path */node_modules/*)",
+      "Bash(find /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode -type f -name @api* -o -name api.ts -o -name RAGERP*)",
+      "Bash(grep -r \"cef.*close\\\\|EventManager.emitClient.*cef.*close\" /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/frontend/src --include=*.tsx --include=*.ts)",
+      "Bash(grep -r \"game-menu-backdrop\\\\|settingsMenu\" /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/frontend/src --include=*.scss --include=*.css)",
+      "Bash(python3 -c:*)",
+      "Bash(grep -E \"\\\\.\\(tsx|ts\\)$\")",
+      "Bash(find C:/Users/matei/Downloads/Deadlock/Deadlock -type f -path */gamemode-2/gamemode/frontend/src/pages/loadout/*)",
+      "Bash(grep -E \"\\\\.\\(ts|tsx\\)$\")",
+      "Bash(grep -n \"Player.store\\\\|playerStore\" /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/frontend/src/stores/*.ts)",
+      "Bash(grep -n \"myRankTier\\\\|myMmr\\\\|myLevel\" /c/Users/matei/Downloads/Deadlock/Deadlock/gamemode-2/gamemode/frontend/src/stores/*.ts)"
+    ]
+  }
+}

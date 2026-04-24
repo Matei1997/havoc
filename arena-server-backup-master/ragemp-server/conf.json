@@ -1,0 +1,12 @@
+{
+	"maxplayers": 100,
+	"name": "RAGE:MP Framework",
+	"gamemode": "pvp",
+	"stream-distance": 300.0,
+	"announce": false,
+	"allow-cef-debugging": true,
+	"csharp": "disabled",
+	"port": 22005,
+	"bind": "0.0.0.0",
+	"fqdn": "eu.loclx.io"
+}

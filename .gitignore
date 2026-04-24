@@ -1,0 +1,2 @@
+# Repo root — always ignore deps (avoids "Filename too long" on Windows; reinstall with npm in ragemp-server/packages/server)
+**/node_modules/

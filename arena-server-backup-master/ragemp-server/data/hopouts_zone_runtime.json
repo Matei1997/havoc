@@ -1,0 +1,24 @@
+{
+  "maps": {
+    "braddock_pass": {
+      "enabled": false,
+      "mode": "announce_only"
+    },
+    "paleto": {
+      "enabled": false,
+      "mode": "announce_only"
+    },
+    "megamall": {
+      "enabled": false,
+      "mode": "announce_only"
+    },
+    "sandy_motel": {
+      "enabled": false,
+      "mode": "announce_only"
+    },
+    "chilliad_base": {
+      "enabled": false,
+      "mode": "announce_only"
+    }
+  }
+}
