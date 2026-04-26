@@ -1,0 +1,25 @@
+{
+  "generatedAt": 1777229542451,
+  "targetId": 0,
+  "targetName": "matei",
+  "frameCount": 60,
+  "intervalSec": 2,
+  "fps": 1,
+  "trigger": {
+    "type": "manual_dump",
+    "details": {
+      "byAdminId": 0,
+      "byAdminName": "matei"
+    },
+    "requestedBy": [
+      "matei"
+    ]
+  },
+  "requestedBy": [
+    "matei"
+  ],
+  "video": {
+    "generated": false,
+    "reason": "ffmpeg_unavailable_or_failed"
+  }
+}

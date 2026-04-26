@@ -1,0 +1,148 @@
+{
+  "generatedAt": 1777229542451,
+  "targetId": 0,
+  "targetName": "matei",
+  "trigger": {
+    "type": "manual_dump",
+    "details": {
+      "byAdminId": 0,
+      "byAdminName": "matei"
+    },
+    "requestedBy": [
+      "matei"
+    ]
+  },
+  "damageLogs": [],
+  "killLogs": [
+    {
+      "timestamp": 1777229252215,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229263805,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229275304,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229286875,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229298449,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229315031,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229326575,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229338136,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229349677,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229366747,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229378289,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229389841,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229401386,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    },
+    {
+      "timestamp": 1777229412948,
+      "killerId": null,
+      "killerName": null,
+      "victimId": 0,
+      "victimName": "matei",
+      "reason": 3452007600,
+      "inArena": true
+    }
+  ],
+  "counts": {
+    "damageLogs": 0,
+    "killLogs": 14
+  }
+}
