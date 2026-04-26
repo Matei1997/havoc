@@ -18,3 +18,10 @@ ragemp-server/**/node_modules/
 ragemp-server/dblogs/
 gamemode/**/node_modules/
 gamemode/**/dist/
+
+# Local env / secrets (templates only are tracked — see gamemode/.env.example)
+gamemode/.env
+gamemode/.env.*
+!gamemode/.env.example
+ragemp-server/.env
+anticheat_account_state.json

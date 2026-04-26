@@ -4,7 +4,7 @@
 	"gamemode": "pvp",
 	"stream-distance": 300.0,
 	"announce": false,
-	"allow-cef-debugging": true,
+	"allow-cef-debugging": false,
 	"csharp": "disabled",
 	"port": 22005,
 	"bind": "0.0.0.0",
