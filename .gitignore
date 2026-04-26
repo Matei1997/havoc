@@ -1,2 +1,5 @@
 # Repo root — always ignore deps (avoids "Filename too long" on Windows; reinstall with npm in ragemp-server/packages/server)
 **/node_modules/
+
+# GTA V / RageMP: DLC RPFs exceed GitHub 100MB limit — distribute outside git or use Git LFS
+**/game_resources/dlcpacks/**/dlc.rpf
